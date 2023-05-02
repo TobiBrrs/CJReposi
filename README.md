@@ -1,2 +1,1 @@
-# CJReposi
-CompuJuli
+A ver si anda
